@@ -1,0 +1,3 @@
+cd "C:\Users\WIN 10\source\repos\Heroes\DB\"
+sqlite3 heroes.db
+.read heroes.sql
